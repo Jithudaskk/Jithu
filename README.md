@@ -1,9 +1,11 @@
 
 **AI FOR PICTURE EDITING**
 
+## Summary
 
 This project focuses on developing a user-friendly photo editing solution that resolves clarity and sharpness issues with a single click. The tool leverages advanced image processing algorithms to automatically detect blurriness, noise, and low-resolution elements, then applies corrective enhancements to deliver crisp, clear, and visually appealing pictures.
 
+## Background
 
 Simplicity: Provide a one-click interface for effortless photo improvement.
 
@@ -18,8 +20,7 @@ Improved image sharpness and detail visibility.
 Enhanced user satisfaction through streamlined editing.
 
 
-
-How is it used?
+## How is it used?
 
 A scalable solution adaptable for mobile apps, desktop software, and cloud platforms.
 
@@ -106,7 +107,7 @@ Cross‑Platform Expansion: Mobile app, desktop software, and browser plug‑ins
 Collaboration Features: Shared editing spaces for teams (e.g., marketing, healthcare, education).
 
 
-Acknowledgments
+## Acknowledgments
 
 Sources of Inspiration
 
