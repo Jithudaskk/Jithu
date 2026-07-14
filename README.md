@@ -32,7 +32,7 @@ https://static.vecteezy.com/system/resources/previews/035/550/071/non_2x/ai-gene
 
 
 If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<img src=["https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg"](https://static.vecteezy.com/system/resources/previews/035/550/071/non_2x/ai-generated-cute-brown-dog-in-studio-realistic-image-with-open-mouth-looking-at-camera-generative-ai-photo.jpeg) width="300">
 
 This is how you create code examples:
 ```
