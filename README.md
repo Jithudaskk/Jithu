@@ -1,11 +1,9 @@
 
 AI FOR PICTURE EDITING
 
-## Summary
 
 This project focuses on developing a user-friendly photo editing solution that resolves clarity and sharpness issues with a single click. The tool leverages advanced image processing algorithms to automatically detect blurriness, noise, and low-resolution elements, then applies corrective enhancements to deliver crisp, clear, and visually appealing pictures.
 
-## Background
 
 Simplicity: Provide a one-click interface for effortless photo improvement.
 
@@ -21,7 +19,7 @@ Enhanced user satisfaction through streamlined editing.
 
 
 
-## How is it used?
+How is it used?
 
 A scalable solution adaptable for mobile apps, desktop software, and cloud platforms.
 
@@ -51,11 +49,11 @@ main()
 ```
 
 
-## Data sources and AI methods
+Data sources and AI methods
 
 (https://static.vecteezy.com/system/resources/previews/035/550/071/non_2x/ai-generated-cute-brown-dog-in-studio-realistic-image-with-open-mouth-looking-at-camera-generative-ai-photo.jpeg)
 
-## Challenges
+Challenges
 
 Severe Image Damage: Cannot fully restore photos that are extremely pixelated, overexposed, or missing detail.
 
@@ -89,7 +87,7 @@ Professional Use Cases:
 
 In healthcare, law enforcement, or journalism, clarity enhancement must be transparent and documented to avoid misleading outcomes.
 
-## What next?
+What next?
 
 Growth Potential
 
@@ -108,7 +106,7 @@ Cross‑Platform Expansion: Mobile app, desktop software, and browser plug‑ins
 Collaboration Features: Shared editing spaces for teams (e.g., marketing, healthcare, education).
 
 
-## Acknowledgments
+Acknowledgments
 
 Sources of Inspiration
 
