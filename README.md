@@ -3,7 +3,7 @@
 
 ## Summary
 
-This project focuses on developing a user-friendly photo editing solution that resolves clarity and sharpness issues with a single click. The tool leverages advanced image processing algorithms to automatically detect blurriness, noise, and low-resolution elements, then applies corrective enhancements to deliver crisp, clear, and visually appealing pictures.
+This project focuses on developing a user-friendly photo editing solution that resolves clarity and sharpness issues with a single click. The tool leverages advanced image processing algorithms to automatically detect blurriness, noise, and low-resolution elements, then applies corrective enhancements to deliver crisp, clear, and visually appealing pictures. "Building AI course project"
 
 ## Background
 
