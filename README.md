@@ -50,7 +50,7 @@ main()
 ```
 
 
-Data sources and AI methods
+##Data sources and AI methods
 
 (https://static.vecteezy.com/system/resources/previews/035/550/071/non_2x/ai-generated-cute-brown-dog-in-studio-realistic-image-with-open-mouth-looking-at-camera-generative-ai-photo.jpeg)
 
@@ -72,7 +72,7 @@ Authenticity vs. Manipulation:
 
 Enhancing clarity should not misrepresent reality (e.g., altering evidence photos, medical scans, or official documents).
 
-Privacy:
+##Privacy:
 
 Users must be cautious when enhancing and sharing personal or sensitive images.
 
