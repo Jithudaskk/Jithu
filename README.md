@@ -4,17 +4,23 @@ AI FOR PICTURE EDITING
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
+This project focuses on developing a user-friendly photo editing solution that resolves clarity and sharpness issues with a single click. The tool leverages advanced image processing algorithms to automatically detect blurriness, noise, and low-resolution elements, then applies corrective enhancements to deliver crisp, clear, and visually appealing pictures.
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+Simplicity: Provide a one-click interface for effortless photo improvement.
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+Clarity Restoration: Automatically sharpen edges, balance contrast, and reduce noise.
+
+Efficiency: Minimize manual editing time while maximizing output quality.
+
+Accessibility: Ensure compatibility across devices for both personal and professional use.
+
+Improved image sharpness and detail visibility.
+
+Enhanced user satisfaction through streamlined editing.
+
+A scalable solution adaptable for mobile apps, desktop software, and cloud platforms.
 
 
 ## How is it used?
