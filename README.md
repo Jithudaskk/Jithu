@@ -72,7 +72,7 @@ Authenticity vs. Manipulation:
 
 Enhancing clarity should not misrepresent reality (e.g., altering evidence photos, medical scans, or official documents).
 
-##Privacy:
+##Privacy
 
 Users must be cautious when enhancing and sharing personal or sensitive images.
 
